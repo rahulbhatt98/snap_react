@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/snapcident/static/css/main.c66e20dd.css",
+    "main.js": "/snapcident/static/js/main.483d79bb.js",
+    "static/js/787.d77db14b.chunk.js": "/snapcident/static/js/787.d77db14b.chunk.js",
+    "static/media/signup-logo.png": "/snapcident/static/media/signup-logo.2370064d8e9078ee77f3.png",
+    "static/media/login-logo.png": "/snapcident/static/media/login-logo.ed1669147d4e61e55936.png",
+    "static/media/lock-screen.png": "/snapcident/static/media/lock-screen.e39e5ea11cd518a97ce9.png",
+    "static/media/resetlogo.jpg": "/snapcident/static/media/resetlogo.7094854d793bbdce1648.jpg",
+    "index.html": "/snapcident/index.html",
+    "main.c66e20dd.css.map": "/snapcident/static/css/main.c66e20dd.css.map",
+    "main.483d79bb.js.map": "/snapcident/static/js/main.483d79bb.js.map",
+    "787.d77db14b.chunk.js.map": "/snapcident/static/js/787.d77db14b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c66e20dd.css",
+    "static/js/main.483d79bb.js"
+  ]
+}
